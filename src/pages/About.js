@@ -18,10 +18,9 @@ export default class About extends Component {
         </div>
         <div className="split right">
           <div className="centered">
-            <div className="name_title">Your Name</div>
+            <div className="name_title">Rohan Sharma</div>
             <div className="brief_description">
-              Tell us about yourself in a few sentences. Tell us your interests
-              and say a fun fact about yourself.
+              Hi! I'm Rohan and I'm a Information Science Major at Cornell University. I am super excited to be part of IBM Accelerate! I love to code and am happy to be learning as a part of the Software Track.
             </div>
           </div>
         </div>
